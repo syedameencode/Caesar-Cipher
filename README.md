@@ -12,9 +12,6 @@ A simple command-line tool to encrypt and decrypt text using the classic Caesar 
 python caesar.py
 # Choose encode/decode, enter your message, provide shift
 
-# (Optional CLI style)
-python caesar.py --mode encode --text "hello world" --shift 5
-
 ## Project Structure
 - caesar.py  # main logic
 - helpers.py # (optional) utility functions
